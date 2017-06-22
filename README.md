@@ -1,24 +1,12 @@
-# README
+# Rails Tutorial Section 2 の演習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+- Rails Tutorial 第二章　( https://railstutorial.jp/chapters/toy_app?version=5.0 ) を進めていく
 
-Things you may want to cover:
+## Tutorial中の課題
+- 課題はissueにて回答する。回答が済んだ課題はCloseする。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ざっくりとやること
+- Scaffold を用いて以下のことをする
+    - Usersリソースを作成し、ユーザー情報を管理する機能を試してみる
+    - Micropostリソースを作成し、短文投稿サイトな機能を試してみる
